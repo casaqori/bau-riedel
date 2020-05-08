@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "K & R Design und Wohnen"
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Über Uns"
 weight = 2
 [[menu.main]]
 URL = "blog"
